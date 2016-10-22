@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinAzure.Mobile.Pages.Acesso.LoginPage">
+  <StackLayout>
+    <Entry Text="{Binding Usuario}" Placeholder="Usuário (Email)" />
+    <Entry Text="{Binding Senha}" Placeholder="Senha" IsPassword="True" />
+    <Button Text="Logar" Command="{Binding LogarCommand}" />
+  </StackLayout>
+</ContentPage>

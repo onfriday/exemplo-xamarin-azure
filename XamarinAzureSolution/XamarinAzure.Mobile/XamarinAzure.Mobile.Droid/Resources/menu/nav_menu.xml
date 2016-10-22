@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <group
+    android:id="@+id/nav_section_main"
+    android:checkableBehavior="single">
+    <item
+      android:id="@+id/nav_home"
+      android:title="Home" />
+    <item
+      android:id="@+id/nav_login"
+      android:title="Login" />
+    <!--android:icon="@drawable/ic_action_home"-->
+  </group>
+
+</menu>
