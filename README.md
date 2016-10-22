@@ -13,16 +13,16 @@ Tem como objetivo organizar os projetos para facilitar o entendimento e identifi
 # Estrutura
 
 1 - Backend (Solution Folder)
-    -> XamarinAzure.Backend (Projeto ASP.NET Web API "Padrão" com ASP.NET Identity "Padrão")
-    -> XamarinAzure.Backend.Tests (Não implementado, ainda)
+-> XamarinAzure.Backend (Projeto ASP.NET Web API "Padrão" com ASP.NET Identity "Padrão")
+-> XamarinAzure.Backend.Tests (Não implementado, ainda)
 2 - Presentation (Solution Folder)
-  2.1 - Mobile (Solution Folder)
-    -> XamarinAzure.Mobile (Portable Class Library "núcleo" do aplicativo Xamarin.Forms)
-    -> XamarinAzure.Mobile.Droid (Projeto Android)
-    -> XamarinAzure.Mobile.iOS (Projeto iOS - Não implementado, ainda)
-    -> XamarinAzure.Mobile.UWP (Projeto UWP - Não implementado, ainda)
-    -> XamarinAzure.Mobile.Windows (Projeto Windows - Nâo implementado, ainda)
-    -> XamarinAzure.Mobile.WinPhone (Projeto WinPhone = Não implementado, ainda)
+2.1 - Mobile (Solution Folder)
+-> XamarinAzure.Mobile (Portable Class Library "núcleo" do aplicativo Xamarin.Forms)
+-> XamarinAzure.Mobile.Droid (Projeto Android)
+-> XamarinAzure.Mobile.iOS (Projeto iOS - Não implementado, ainda)
+-> XamarinAzure.Mobile.UWP (Projeto UWP - Não implementado, ainda)
+-> XamarinAzure.Mobile.Windows (Projeto Windows - Nâo implementado, ainda)
+-> XamarinAzure.Mobile.WinPhone (Projeto WinPhone = Não implementado, ainda)
 
 # Projeto: XamarinAzure.Backend
 
